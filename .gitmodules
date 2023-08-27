@@ -1,3 +1,6 @@
 [submodule "PerfectGame"]
 	path = PerfectGame
 	url = https://github.com/AlexValder/PerfectGame
+[submodule "2DStealth"]
+	path = 2DStealth
+	url = https://github.com/AlexValder/2DStealth
