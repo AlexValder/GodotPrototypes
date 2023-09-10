@@ -4,3 +4,6 @@
 [submodule "2DStealth"]
 	path = 2DStealth
 	url = https://github.com/AlexValder/2DStealth
+[submodule "HTML5_Godot3"]
+	path = HTML5_Godot3
+	url = https://github.com/AlexValder/HTML5_Godot3
