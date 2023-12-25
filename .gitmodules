@@ -7,3 +7,6 @@
 [submodule "HTML5_Godot3"]
 	path = HTML5_Godot3
 	url = https://github.com/AlexValder/HTML5_Godot3
+[submodule "DroneController"]
+	path = DroneController
+	url = https://github.com/AlexValder/DroneController
